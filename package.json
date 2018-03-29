@@ -1,0 +1,32 @@
+{
+    "title": "Sistema para salões de cabelereiros",
+    "name": "fluxo-dia-dia",
+    "version": "1.0.0",
+    "description": "Um sistema para dar apoio ao fluxo de trabalho dos funcionários do salão",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "http://pwms.com.br",
+    "license": "MIT",
+    "author": "Willians Martins",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/williansmartins/impacta-back-end-2"
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "browser-sync": "^2.23.6",
+        "font-awesome": "^4.7.0",
+        "gulp": "^3.9.1",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {}
+}
